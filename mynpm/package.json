@@ -1,0 +1,15 @@
+{
+  "name": "mynpm",
+  "version": "1.0.0",
+  "description": "my npm projects ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mirzajalilov Ravshanbek",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.11.19",
+    "underscore": "^1.12.0"
+  }
+}
